@@ -2,7 +2,7 @@
 # Установить зависимости
 pip install -r requirements.txt
 
-# Установить Redis
+# Запуск Redis
 docker run --name redis -p 6379:6379 -d redis
 
 # 1-е окно терминала:
