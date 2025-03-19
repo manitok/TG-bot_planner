@@ -1,0 +1,4 @@
+celery
+pymongo
+python-telegram-bot
+redis
